@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 ### - 🔭 I’m currently working on DevOps and Data Science
 ### - 🌱 I’m currently learning Machine Learning , Deep Learning
-### - 📫 How to reach me: Twitter
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlespla&show_icons=true&count_private=true&&theme=radical)
