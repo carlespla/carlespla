@@ -4,7 +4,7 @@
 
 I'm Carles, a SRE, data scientist and tech enthusiast!
 
-- 🔎 I currently work as a FinOps at a technology company in the applied innovation team.
+- 🔎 I currently work as a FinOps at a technology company.
 - 🤖 I have experience orchestrating LLM and RAG, Agents, MCP.
 - 🖥️ I also have experience as a backend developer in Python.
 - 🌱 I’m currently learning Machine Learning , Deep Learning
